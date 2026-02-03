@@ -24,8 +24,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
+title: Test Page
+email: ndhlazi.trevor@gmail.com
 author: GitHub User
 
 # Copyright setting
@@ -63,7 +63,7 @@ yat:
 # header_transparent: true
 
 # If you want to change the content width, you can set to another value
-# content_width: "920px"
+ content_width: "920px"
 
 # Google analytics
 # google_analytics: [Tracking ID]
@@ -103,8 +103,8 @@ yat:
 
 # You can choose a theme color
 # Default theme colors as below:
-# coolblack: #090a0b
-# spacegrey: #353535
+  coolblack: #090a0b
+  spacegrey: #353535
 # snowwhite: #ffffff
 #
 # theme_color: snowwhite
@@ -125,7 +125,7 @@ yat:
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
-# (19:00 - 07:00), "manual" is for manual toggle, and
+ (19:00 - 07:00), "manual" is for manual toggle, and
 # "on/off" is for default on/off.
 #
 # Whatever the user's choice is, it will supersede the
@@ -134,7 +134,7 @@ yat:
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
-# night_mode: "auto"
+ night_mode: "auto"
 
 # Code badge setting
 # You can enable or disable the code badge and so on
