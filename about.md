@@ -5,4 +5,4 @@ title: About
 
 ## About
 
-Hi, nice to meet you.
+Hi, name is Trevor Ndhlazi.  I will be providing more information about myself just now
